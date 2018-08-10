@@ -1,1 +1,18 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+ParkWise(https://parkwise.herokuapp.com/)
+=================
+
+ParkWise is an e-parking service that allows users to shop for, reserve and pre-pay for a parking spot near their destination.
+
+*Built in 5 days by [Lindelwe Ncube](https://github.com/linniethepooh), [Djamal Sadaghiani](https://github.com/Djamal-Sadaghiani) and [Anton Barthelmess](https://github.com/Baranton)*
+
+Technologies Used
+-----
+
+- Ruby on Rails framework
+- HTML, CCS, JavaScript 
+- Devise gem for user authentication
+- PostgreSQL database
+- Google APIs
+- Integrated Stripe payment
+- Heroku
+- Twilio
