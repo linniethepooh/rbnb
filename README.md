@@ -13,7 +13,7 @@ Technologies Used
 - Ruby on Rails framework
 - HTML, CCS, JavaScript 
 - Devise gem for user authentication
-- PostgreSQL database
+- PostgreSQL 
 - Google APIs
 - Integrated Stripe payment
 - Heroku
